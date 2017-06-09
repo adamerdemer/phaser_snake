@@ -8,4 +8,4 @@ Phaser games are organized around states. Think of states in Phaser as the diffe
 
 **main.js** is this main JavaScript file. This is the place where we will create a new game instance and add a menu state.
 
-![How to calculate game speed based on score](http://imgur.com/lV4zg2m)
+![Image](http://i.imgur.com/lV4zg2m.png)
